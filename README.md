@@ -2,8 +2,8 @@
 
 Group Members:
 •	NISHIMWE Elysée Prince 221017550
-•	MURASIRA Brian 
-•	KUBWIMANA Justine 
+•	MURASIRA Brian 221015024
+•	KUBWIMANA Justine 221001275
 •	NYIRANSABIMANA Dorothee 221009287
 
 Time complexities for respective functions:
