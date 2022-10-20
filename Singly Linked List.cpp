@@ -90,7 +90,7 @@ class LinkedList
         cout<<"Value " << val << " is indeed available in the list!"<<endl;
         return true;
         cout<<endl;
-    
+    	current=current->next;
 	}
 
 
