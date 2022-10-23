@@ -25,6 +25,7 @@ class LinkedList
     // Parameterized constructor // Time Complexity: O(n)
     LinkedList(int size, LinkedList &li){
     	
+    	
     	srand(time(0));
     	
     	for (int i=0; i < size; i++){
@@ -92,10 +93,10 @@ class LinkedList
         cout<<endl;
     	current=current->next;
 	}
-
+}
 
 	return false;
-	cout<<"Value "<<val<<" is not available in this list"<<endl;}
+	cout<<"Value "<<val<<" is not available in this list"<<endl;
 
 }
 
