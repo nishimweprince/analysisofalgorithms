@@ -6,7 +6,8 @@ Group Members:
 •	KUBWIMANA Justine 221001275
 •	NYIRANSABIMANA Dorothee 221009287
 
-<u> SINGLY LINKED LISTS </u>
+<ins> SINGLY LINKED LISTS </ins>
+<br>
 Time complexities for respective functions:
 •	Parameterized constructor: LinkedList: O(n)
 •	 Destructor: ~LinkedList(): O(n)
